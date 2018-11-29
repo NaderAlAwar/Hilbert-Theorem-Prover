@@ -1,2 +1,2 @@
-# C--Theorem-Prover
-A theorem prover that implements the Hilbert proof system
+to compile, run g++ *.cpp -o main
+to run, run ./main and you will be prompted to enter some parameters
